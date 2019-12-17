@@ -20,4 +20,6 @@ on a simple channel with AWGN.
 
 ### Exercise 3: QPSK
 
-Observing the BER for QPSK baseband modulation. Raised-cosine tx and rx filter, AWGN channel.
+Observing the Bit Error Rate for QPSK baseband modulation. Raised-cosine tx and rx filter, AWGN channel.
+
+Contains the BER plot for a 2 dB SNR.
