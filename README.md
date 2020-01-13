@@ -23,3 +23,7 @@ on a simple channel with AWGN.
 Observing the Bit Error Rate for QPSK baseband modulation. Raised-cosine tx and rx filter, AWGN channel.
 
 Contains the BER plot for a 2 dB SNR.
+
+### Exercise 4: system parameters
+
+Interfacing with Matlab to import and export variables. Specifically, plotting the BER against the channel SNR.
